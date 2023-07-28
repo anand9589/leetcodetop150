@@ -74,7 +74,8 @@
 
         #endregion
 
-        #region Problem 4
+        #region Problem 4 80. Remove Duplicates from Sorted Array II
+
         public int RemoveDuplicates(int[] nums)
         {
             if (nums.Length <= 2) return nums.Length;
@@ -92,7 +93,31 @@
             return i;
         }
         #endregion
-        #region Problem 5
+
+        #region Problem 5 169. Majority Element
+        public int MajorityElement(int[] nums)
+        {
+            int res = nums[0];
+            int cnt = 1;
+
+            for (int i = 1; i < nums.Length; i++)
+            {
+                if (cnt == 0)
+                {
+                    res = nums[i];
+                }
+
+                if (nums[i] == res)
+                {
+                    cnt++;
+                }
+                else
+                {
+                    cnt--;
+                }
+            }
+            return res;
+        }
         #endregion
         #region Problem 6
         #endregion
