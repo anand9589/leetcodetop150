@@ -53,7 +53,7 @@
         #endregion
 
         #region Problem 3 26. Remove Duplicates from Sorted Array
-        public int RemoveDuplicates(int[] nums)
+        public int RemoveDuplicates_V1(int[] nums)
         {
             int indexJ = 1;
             for (int i = 1; i < nums.Length; i++)
@@ -75,6 +75,22 @@
         #endregion
 
         #region Problem 4
+        public int RemoveDuplicates(int[] nums)
+        {
+            if (nums.Length <= 2) return nums.Length;
+            int i = 2, j = 2;
+
+            while (j < nums.Length)
+            {
+                if (nums[j] != nums[i - 2])
+                {
+                    nums[i++] = nums[j];
+                }
+                j++;
+
+            }
+            return i;
+        }
         #endregion
         #region Problem 5
         #endregion
