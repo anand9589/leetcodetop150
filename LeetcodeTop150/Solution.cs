@@ -150,5 +150,185 @@
         #endregion
         #region Problem 60
         #endregion
+        #region Problem 61
+        #endregion
+        #region Problem 62
+        #endregion
+        #region Problem 63
+        #endregion
+        #region Problem 64
+        #endregion
+        #region Problem 65
+        #endregion
+        #region Problem 66
+        #endregion
+        #region Problem 67
+        #endregion
+        #region Problem 68
+        #endregion
+        #region Problem 69
+        #endregion
+        #region Problem 70
+        #endregion
+        #region Problem 71
+        #endregion
+        #region Problem 72
+        #endregion
+        #region Problem 73
+        #endregion
+        #region Problem 74
+        #endregion
+        #region Problem 75
+        #endregion
+        #region Problem 76
+        #endregion
+        #region Problem 77
+        #endregion
+        #region Problem 78
+        #endregion
+        #region Problem 79
+        #endregion
+        #region Problem 80
+        #endregion
+        #region Problem 81
+        #endregion
+        #region Problem 82
+        #endregion
+        #region Problem 83
+        #endregion
+        #region Problem 84
+        #endregion
+        #region Problem 85
+        #endregion
+        #region Problem 86
+        #endregion
+        #region Problem 87
+        #endregion
+        #region Problem 88
+        #endregion
+        #region Problem 89
+        #endregion
+        #region Problem 90
+        #endregion
+        #region Problem 91
+        #endregion
+        #region Problem 92
+        #endregion
+        #region Problem 93
+        #endregion
+        #region Problem 94
+        #endregion
+        #region Problem 95
+        #endregion
+        #region Problem 96
+        #endregion
+        #region Problem 97
+        #endregion
+        #region Problem 98
+        #endregion
+        #region Problem 99
+        #endregion
+        #region Problem 100
+        #endregion
+        #region Problem 101
+        #endregion
+        #region Problem 102
+        #endregion
+        #region Problem 103
+        #endregion
+        #region Problem 104
+        #endregion
+        #region Problem 105
+        #endregion
+        #region Problem 106
+        #endregion
+        #region Problem 107
+        #endregion
+        #region Problem 108
+        #endregion
+        #region Problem 109
+        #endregion
+        #region Problem 110
+        #endregion
+        #region Problem 111
+        #endregion
+        #region Problem 112
+        #endregion
+        #region Problem 113
+        #endregion
+        #region Problem 114
+        #endregion
+        #region Problem 115
+        #endregion
+        #region Problem 116
+        #endregion
+        #region Problem 117
+        #endregion
+        #region Problem 118
+        #endregion
+        #region Problem 119
+        #endregion
+        #region Problem 120
+        #endregion
+        #region Problem 121
+        #endregion
+        #region Problem 122
+        #endregion
+        #region Problem 123
+        #endregion
+        #region Problem 124
+        #endregion
+        #region Problem 125
+        #endregion
+        #region Problem 126
+        #endregion
+        #region Problem 127
+        #endregion
+        #region Problem 128
+        #endregion
+        #region Problem 129
+        #endregion
+        #region Problem 130
+        #endregion
+        #region Problem 131
+        #endregion
+        #region Problem 132
+        #endregion
+        #region Problem 133
+        #endregion
+        #region Problem 134
+        #endregion
+        #region Problem 135
+        #endregion
+        #region Problem 136
+        #endregion
+        #region Problem 137
+        #endregion
+        #region Problem 138
+        #endregion
+        #region Problem 139
+        #endregion
+        #region Problem 140
+        #endregion
+        #region Problem 141
+        #endregion
+        #region Problem 142
+        #endregion
+        #region Problem 143
+        #endregion
+        #region Problem 144
+        #endregion
+        #region Problem 145
+        #endregion
+        #region Problem 146
+        #endregion
+        #region Problem 147
+        #endregion
+        #region Problem 148
+        #endregion
+        #region Problem 149
+        #endregion
+        #region Problem 150
+        #endregion
     }
 }
