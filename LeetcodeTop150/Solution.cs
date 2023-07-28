@@ -32,7 +32,24 @@
             }
         }
         #endregion
-        #region Problem 2
+
+        #region Problem 2 27. Remove Element
+        public int RemoveElement(int[] nums, int val)
+        {
+            int j = 0;
+            int i = 0;
+
+            while (j < nums.Length)
+            {
+                if (nums[j] != val)
+                {
+                    nums[i++] = nums[j];
+                }
+                j++;
+            }
+
+            return i;
+        }
         #endregion
         #region Problem 3
         #endregion
